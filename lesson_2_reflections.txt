@@ -1,0 +1,2 @@
+What happens when you initialize a repository? Why do you need to do it?
+It will now show up on Git. The user will now be capable of executing Git commands and use Git features on/with the repository.
