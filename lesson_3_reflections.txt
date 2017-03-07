@@ -1,1 +1,11 @@
 When would you want to use a remote repository rather than keeping all your work local?
+So it's accessible from anywhere in the event you don't have access to local.
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+Privacy concerns, it may not be ready, you maybe using a device that is not yours and you do not want files on that device.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+It is available in the event you need it for any reason.
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+Easier: Cant think of anything. Harder: Wouldn't be able to visualize the changes done by different people and when exactly each change was done.
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+If it hasn't been decided that the changes will be part of the master. Making changes directly to master is quick, but doing so in a separate branch protects the master from breaking.
